@@ -1,0 +1,119 @@
+#up1 {
+  width: 100%;
+  margin-top: 0.5rem;
+}
+#up2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+#up3 {
+  font-size: 0.9rem;
+  font-weight: 300;
+  text-align: justify;
+}
+#up4 {
+  background-color: #1e1e1e;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border: none;
+}
+#up5 {
+  margin: auto;
+}
+#up6 {
+  color: #394e76;
+  font-size: 1.3rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+#up7 {
+  color: #1e1e1e;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+#up8 {
+  color: #1e1e1e;
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #2f88ff;
+}
+#up9 {
+  color: #2f88ff;
+  font-weight: 500;
+}
+
+#upprofile_thead {
+  background-color: #36dbe9;
+  color: white;
+  font-family: exo;
+  font-family: 1rem;
+  font-weight: 500;
+}
+
+td {
+  border: none;
+  cursor: pointer;
+}
+th {
+  border: none;
+}
+tr {
+  border: none;
+}
+
+#upprofile_send {
+  font-weight: 600;
+  color: #2f88ff;
+  cursor: pointer;
+}
+#upprofile_tablemain {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  margin-bottom: 2rem;
+}
+#upprofile_name {
+  font-weight: 600;
+  color: #2f88ff;
+  cursor: pointer;
+}
+#up11 {
+  font-size: 1rem;
+  border: 2px solid green;
+  text-align: center;
+  border-radius: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+  cursor: pointer;
+}
+#up12 {
+  background-color: red;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 0.1rem;
+  margin-left: 1.6rem;
+  font-size: 1rem;
+  margin-top: 0.3rem;
+}
+#up13 {
+  color: white;
+}
+#up14 {
+  background-color: #394e76;
+  width: 100%;
+  border: none;
+  margin-top: 2rem;
+}
+@media only screen and (max-width: 600px) {
+  #up2 {
+    font-size: 1.7rem;
+    font-weight: 600;
+  }
+}

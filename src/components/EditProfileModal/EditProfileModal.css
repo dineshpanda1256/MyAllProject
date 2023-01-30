@@ -1,0 +1,45 @@
+#epm1 {
+    color: #394E76;
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+#emp2 {
+    height: 0.03rem;
+    background-color: #1E1E1E;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+#emp3 {
+    color: #8D8D8D;
+    font-size: 1.3rem;
+}
+#emp4 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-top: 0.8rem;
+}
+#emp5 {
+    background: linear-gradient(108.76deg, #37DEED -2.73%, #2DA2AC 62.68%);
+    border: none;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin-top: 0.8rem;
+}
+#emp6 {
+    text-align: right;
+}
+#emp7 {
+    background-color: #223A66;
+    border: none;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+#emp8 {
+    text-align: center;
+    margin-top: 3rem;
+}
+#emp9 {
+    border-top: none;
+    display: flex;
+    justify-content: center;
+}

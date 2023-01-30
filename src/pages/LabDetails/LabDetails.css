@@ -1,0 +1,78 @@
+#labdetails1 {
+  display: flex;
+  background: #1e1e1e;
+  color: white;
+  padding: 1rem 0rem 1rem 10rem;
+}
+#labdetails2 {
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: Exo;
+}
+#labdetails3 {
+  font-size: 0.6rem;
+  font-weight: 400;
+  font-family: Exo;
+}
+#labdetails4 {
+  display: flex;
+  margin-top: 2rem;
+  padding-left: 3rem;
+}
+#labdetails5 {
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: #029967;
+  font-family: Exo;
+}
+#labdetails6 {
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+  font-family: Exo;
+  color: black;
+}
+#labdetails7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+#labdetails8 {
+  font-family: Exo;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 32px;
+  color: #029967;
+  margin-top: 2rem;
+}
+#labdetails9 {
+    font-family: Exo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 1.3rem;
+    color: black;
+    margin-bottom: 2rem;   
+}
+#labdetails10 {
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: #029967;
+}
+#labdetails11 {
+  display: flex;
+}
+#labdetails12 {
+  margin-top: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+#labdetails13 {
+    width: 100%;
+    padding: 0.5rem;
+    height: 2.8rem;
+    font-size: 1rem;
+}

@@ -1,0 +1,132 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+#pdf1{
+    display: flex;
+    flex-direction: row;
+    font-size: 0.8rem;
+}
+#pdf2{
+    margin-left: 1rem;
+}
+#pdf3{
+    display: flex;
+    flex-direction: row;
+    /* margin-top: 1.5rem; */
+    padding-left: 0.5rem;
+    /* overflow: auto; */
+    padding: 5PX;
+    border-style: solid;
+    border-width: .5px;
+    /* border-color: #1fbba1; */
+    border-color: transparent;
+
+}
+#pdf5{
+    font-size: 0.85rem;
+    font-weight: 700;
+    /* border-bottom: 1px solid black; */
+    padding-bottom: 0.5rem;
+    padding-left: 0.8rem;
+    width: 10rem;
+}
+#pdf6{
+    font-size: 1rem;
+    font-weight: 700;
+    padding-bottom: 0.5rem;
+   
+    margin-top: 1.5rem;
+    padding-left: 1rem;
+    color: #1fbba1;;
+    margin-bottom: 0.5rem;
+}
+#pdf7{
+    font-size: 1.7rem;
+    font-weight: 700;
+    color: #1fbba1;
+    font-family: sans-serif;
+  
+    padding-left: .5rem;
+}
+#pdf8{
+    font-size: 0.8rem;
+}
+#pdf9{
+    padding-left: 1rem;
+    padding-top: 0.4rem;
+}
+#printpagebutton{
+    margin-left: 1rem;
+}
+#pdf10{
+    font-size: 0.75rem;
+    font-weight: 700;
+    /* padding-bottom: 0.5rem; */
+    padding-left: 0.8rem;
+    width: 10rem;
+}
+#pdf11{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+#pdf12{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: 2rem;
+    font-size: .6rem;
+}
+
+#pdf13{
+    width: 100%;
+    height: 1px;
+    background-color: rgb(48, 48, 48);
+    margin-top: 2px;
+    width: 37%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    opacity: 60%;
+}
+#pdf16{
+    width: 100%;
+    height: 3px;
+    background-color: rgb(48, 48, 48);
+    margin-top: 2px;
+    width: 37%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+#pdfwrapperdiv{
+    margin: 1rem;
+}
+#pdf14{
+    margin-top: .5rem;
+    font-family: sans-serif;
+    font-size: .7rem;
+    margin-left: 1rem;
+    align-items: center;
+    text-align: left;
+   
+    display: flex;
+}
+#pdf15{
+    width: 37%;
+    height: 3px;
+    background-color: rgb(0, 217, 255);
+    margin-top: 5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    opacity: 50%;
+}
+#pdf17{
+    width: 37%;
+    height: 1px;
+    background-color: rgb(0, 217, 255);
+    margin-left: 1rem;
+    margin-top: .2rem;
+    opacity: 50%;
+    margin-right: 1rem;
+}

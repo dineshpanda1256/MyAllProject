@@ -1,0 +1,38 @@
+#otp1 {
+    border-bottom: none;
+}
+#otp2 {
+    border-top: none;
+    border-top: none;
+    display: flex;
+    justify-content: flex-start;
+}
+#otp3 {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #394E76;
+}
+#otp4 {
+    color: #394E76;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+#otp5 {
+    border: none;
+    font-size: 2rem;
+    color: #394E76;
+}
+#otp6 {
+    display: flex;
+    align-items: center;
+}
+#otp7 {
+    height: 0.1rem;
+    background-color: #029967;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+#otp8 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

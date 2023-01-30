@@ -1,0 +1,151 @@
+#labcard1{
+    border: 1.6px solid #009CFF;
+    border-radius: 0.4rem;
+    margin-bottom: 1.4rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: linear-gradient(to right, #FFFFFF 0%, #EAFFF7 100%);
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    height: auto;
+}
+#labcardimg{
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.7rem;
+    margin-left: 0.3rem;
+}
+#labcard2{
+    font-size: 1.3rem;
+    color: #394E76;
+    font-family: Exo;
+}
+#labcard3{
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5rem;
+    font-family: Exo;
+    padding-top: 0.3rem;
+}
+#labcard4{
+    margin-top: 1.5rem;
+    display: flex;
+    align-items:center ;
+    font-family: Exo;
+}
+#labcard5{
+    padding-left: 3rem;  
+    overflow: hidden; 
+    font-family: Exo;
+}
+#labcard6{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#labcard7{
+    line-height: 0.7rem;
+    display: flex;
+    font-family: Exo;
+    font-size: 0.8rem;
+}
+#icon1{
+    font-size: 1.4rem;
+    font-family: Exo;
+    margin-right: 1.02rem;
+    margin-left: 0.6rem;
+}
+#labcardviewbutton{
+    background: linear-gradient(to right, #36DFEE 0%, #2DA2AC 100%);
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+#labcardlocbuttion{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 0.4rem;
+    justify-content: center;
+    padding-left: 0.45rem;
+    padding-right: 0.45rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+#earthicon{
+    color: #008DB3;
+    font-size: 1.2rem;
+    font-family: Exo;
+    margin-right: 0.3rem;
+}
+#labcard8 {
+    text-decoration: none;
+    color: white;
+}
+#labcard9 {
+    background: transparent;
+    border: none;
+    font-weight: 500;
+    font-size: 0.9rem;
+    font-family: Exo;
+}
+
+#labcard10 {
+    font-family: 'Exo';
+font-style: normal;
+font-weight: 400;
+font-size: 0.8rem;
+line-height: 0.9rem;
+
+color: #1E1E1E;
+}
+
+#seemoreTxt {
+    cursor: pointer;
+    color: darkblue;
+    font-family: Exo;
+    font-weight: 500;
+}
+@media only screen and (max-width: 600px) {
+    #labcard2{
+        font-size: 1.4rem;
+        font-family: Exo;
+        color: #394E76;
+    }
+  }
+  @media only screen and (min-width: 600px) {
+    #labcard2{
+        font-size: 1.3rem;
+        font-family: Exo;
+        color: #394E76;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    #labcard2{
+        font-size: 1.3rem;
+        font-family: Exo;
+        color: #394E76;
+    }
+  }
+
+@media only screen and (max-width: 870px) {
+    #labcard2{
+        font-size: 1rem;
+        font-family: Exo;
+        color: #394E76;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    #labcard2{
+        font-size: 1.3rem;
+        font-family: Exo;
+        color: #394E76;
+    }
+  }

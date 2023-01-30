@@ -1,0 +1,54 @@
+#eep1 {
+    border-bottom: none;
+}
+#eep2 {
+    border-top: none;
+    display: grid;
+    justify-content: center;
+}
+#eep3 {
+    color: #009CFF;
+    font-size: 2rem;
+    font-weight: 700;
+}
+#eep4 {
+    height: 1.3rem;
+    width: 1.3em;
+}
+#eep5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#eep6 {
+    border-bottom: 0.5px solid black;
+    margin: 0.5rem 0 0.5rem 0;
+}
+#eep7 {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+#eep8 {
+    font-weight: 500;
+}
+#eep9 {
+    background-color: #1E1E1E;
+    border: none;
+    padding: 0 1rem 0 1rem;
+    font-weight: 500;
+}
+#eep10 {
+    background: linear-gradient(180deg, #36DFEE 0%, #2DA2AC 100%);
+    border: none;
+    padding: 0.5rem 5rem 0.5rem 5rem;
+}
+#eep11 {
+    display: flex;
+    justify-content: center;
+}
+#eep12 {
+    display: flex;
+    justify-content: center;
+    
+}

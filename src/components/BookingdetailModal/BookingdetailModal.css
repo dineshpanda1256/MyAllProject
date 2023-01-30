@@ -1,0 +1,73 @@
+#bmodal1{
+    border:0px solid white;
+}
+#bmodal2{
+    padding-left: 1.5rem;
+    padding-top: 1rem;
+    padding-bottom:2rem;
+    padding-right: 1.5rem;
+}
+#bmodal3{
+    color: #009CFF;
+    font-weight: 600;
+    font-family: exo;
+    font-size: 1.4rem;
+    margin-bottom: 0.7rem;
+}
+#bmodal4{
+    color: #1E1E1E;
+    font-size: 1.2rem;
+    font-family: roboto;
+    font-weight: 400;
+}
+#bmodal5{
+    background: linear-gradient(to right, #37DEED 0%, #2DA2AC 100%);
+    color: white;
+    border-radius: 0.8rem;
+    text-align: center;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    margin-bottom: 1rem;
+    
+}
+#bmodal5:hover{
+    background: linear-gradient(to right, #2DA2AC 0%, #37DEED 100%);
+    color: white;
+    border-radius: 0.8rem;
+    text-align: center;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    margin-bottom: 1rem;
+
+}
+#bmodal6{
+    background: linear-gradient(to right, #37DEED 0%, #2DA2AC 100%);    
+    border-radius: 0.5rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    padding-left: 1.7rem;
+    padding-right: 1rem;
+    margin-top: 1rem;
+   
+}
+#bmodal7{
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+#bmodal8{
+    margin-bottom: 0.9rem;
+    color: #FFFFFF;
+    font-family: exo;
+    font-weight: 600;
+    font-size: 1.4rem;
+    
+}
+#bmodal9{
+    margin-top: 1.8rem;
+}
+

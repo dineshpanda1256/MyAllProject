@@ -1,0 +1,123 @@
+#test1{
+    border: 1px solid black;
+    padding-left: 1.3rem;
+    padding-top: 0.5rem;
+    border-radius: 0.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1.2rem; 
+}
+#test2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+#test3{
+    text-decoration: line-through;
+    margin-left: 0.7rem;
+    font-size: 1.2rem;
+}
+#test4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#test5{
+    background-color: #4687BF;
+    margin-left: 1rem;
+    border-radius: 0.5rem;
+    color: white;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+#test6{
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+}
+#test7{
+    color: red;
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+    margin-right: 0.3rem;
+}
+#test8{
+    color: #286374;
+    font-size: 2.3rem;
+    font-weight: 600;
+}
+#test9{
+    display: flex;
+    align-items: center;
+}
+#test10{
+    color: #286374;
+    font-size: 1.1rem;
+}
+#test11{
+    background-color: #4687BF;
+    height: 0.9rem;
+    margin-left: 0.8rem;
+    margin-bottom: 2.2rem;
+}
+#test12{
+    margin-bottom: 0.7rem;
+}
+#test13{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+#test14{
+    font-size: 1.3rem;
+    margin-right: 1rem;
+    color: #4687BF;
+}
+#test15{
+    color: #4687BF;
+    font-size: 0.8rem;
+}
+#test16{
+    margin-top: 0.2rem;
+    font-size: 0.8rem;
+    color: #4687BF;
+}
+#test17{
+    font-size: 0.8rem;
+}
+#test18{
+    font-size: 1.6rem;
+    color: #4687BF;
+    font-weight: 500;
+}
+#test19{
+    color: black;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+#test20{
+    color: #009CFF;
+    font-size: 0.8rem;
+
+}
+#test23{
+    color: #4687BF;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+}
+#test25{
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+#test27{
+    border: 1px solid black;
+    padding-left: 1.3rem;
+    padding-top: 0.8rem;
+    border-radius: 0.5rem;
+    padding-bottom: 0.8rem;
+    margin-bottom: 1.2rem;
+}
+#test28{
+    margin-bottom: 0.7rem;
+    margin-top: 0.7rem;
+    color: #4687BF;
+}

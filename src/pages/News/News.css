@@ -1,0 +1,16 @@
+#Newsheadline{
+    color:#46C0CC;
+    font-family: Exo;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-top: 2rem;
+}
+#Newsdesctiption{
+    color: #1e1e1e;
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+text-align: justify;
+}

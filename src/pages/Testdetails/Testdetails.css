@@ -1,0 +1,229 @@
+#test1 {
+  border: 1px solid black;
+  padding-left: 1.3rem;
+  padding-top: 0.5rem;
+  border-radius: 0.5rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1.2rem;
+}
+#test2 {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #023524;
+  font-family: Exo;
+}
+#test3 {
+  text-decoration: line-through;
+  margin-left: 0.7rem;
+  font-size: 1rem;
+}
+#test4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 27px;
+  color: #286374;
+}
+#test5 {
+  background-color: #4687bf;
+  margin-left: 1rem;
+  border-radius: 0.5rem;
+  color: white;
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+}
+#test6 {
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+  font-family: Exo;
+  font-weight: 500;
+}
+#test7 {
+  color: red;
+  font-size: 1rem;
+  margin-bottom: 0.2rem;
+  margin-right: 0.3rem;
+}
+#test8 {
+  color: #286374;
+  font-size: 2.3rem;
+  font-weight: 600;
+}
+#test9 {
+  display: flex;
+  align-items: center;
+}
+#test10 {
+  color: #286374;
+  font-size: 1.1rem;
+}
+#test11 {
+  background-color: #4687bf;
+  height: 0.5rem;
+  margin-left: 0.8rem;
+  margin-bottom: 0.6rem;
+}
+#test12 {
+  margin-bottom: 0.7rem;
+}
+#test13 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#test14 {
+  font-size: 1.5rem;
+  margin-right: 1rem;
+  color: #023524;
+  font-family: 'Exo';
+font-style: normal;
+font-weight: 500;
+line-height: 2rem;
+}
+#test15 {
+  color: #4687bf;
+  font-size: 0.8rem;
+}
+#test16 {
+  margin-top: 0.2rem;
+  font-size: 0.8rem;
+  color: #4687bf;
+  font-family: Exo;
+}
+#test17 {
+  font-size: 0.8rem;
+}
+#test18 {
+  font-size: 1.2rem;
+  color: #4687bf;
+  font-weight: 500;
+  font-family: 'Exo';
+font-style: normal;
+font-weight: 500;
+line-height: 2rem;
+}
+#test19 {
+  color: black;
+  font-size: 1.7rem;
+  font-weight: 600;
+}
+#test20 {
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 1rem;
+  color: #009cff;
+}
+#test23 {
+  color: #4687bf;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+#test25 {
+  font-size: 1.4rem;
+  font-weight: 500;
+}
+#test27 {
+  border: 1px solid black;
+  padding-left: 1.3rem;
+  padding-top: 0.8rem;
+  border-radius: 0.5rem;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1.2rem;
+}
+#test28 {
+  margin-bottom: 0.7rem;
+  margin-top: 0.7rem;
+  color: #4687bf;
+}
+#searchbar {
+  border: 1px solid black;
+  margin-top: 3rem;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+#test29 {
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
+  /* background-color: aqua; */
+  padding: 0.5rem;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+}
+#addMoreBtnBackground {
+  background: linear-gradient(127.51deg, #36dfee 10.05%, #4687bf 86.51%);
+  width: 100%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+#test30 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+#test31 {
+  background: linear-gradient(178.1deg, #0072c2 1.6%, #00427c 98.4%);
+  width: 100%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+#test32 {
+  min-height: 65vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+
+#anySpecialRequirementsTxt {
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 27px;
+  color: #1e1e1e;
+}
+
+#discountedPrice {
+  font-family: "Exo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  color: #286374;
+  margin: 0.8rem 0rem;
+}
+#test33{
+  font-family: "exo";
+  font-weight: 400;
+ 
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 1rem;
+  color: #ff0000;
+  text-align: center;
+}
+#test34{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-family: Exo;
+  font-weight: 500;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}

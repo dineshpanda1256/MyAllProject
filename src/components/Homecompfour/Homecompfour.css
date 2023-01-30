@@ -1,0 +1,190 @@
+.Homecompfour_bg {
+  background-image: linear-gradient(#fff, #b2fff2);
+}
+.Homecompfour_formaindiv {
+  background-color: white;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+    0 3px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 2rem;
+  height: auto;
+  margin-bottom: 2rem;
+  border: 5px solid #223a66;
+}
+.Homecompfour_whychoose {
+  font-size: 1.3rem;
+  color: #46c0cc;
+  font-family: Exo;
+  padding-left: 1rem;
+  font-weight: 500;
+}
+.Homecompfour_whatmakes {
+  font-size: 2.4rem;
+  font-family: Exo;
+  color: #46c0cc;
+  font-weight: 800;
+  padding-left: 1rem;
+  margin-bottom: 1rem;
+}
+.Homecompfour_description {
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 00;
+  margin-top: 3.5rem;
+  margin-bottom: 1.5rem;
+  line-height: 2;
+}
+.Homecompfour_description2 {
+  font-family: Roboto;
+  font-size: 1rem;
+  font-weight: 300;
+  margin-top: 1.5rem;
+  line-height: 2;
+}
+#Homecompfour_input {
+  background-color: #beffea;
+  margin-top: 2rem;
+  border: none;
+  width: 80%;
+  height: 8vh;
+  border-radius: 0.6rem;
+}
+#Homecompfour_input_contact {
+  background-color: #beffea;
+  margin-top: 2rem;
+  border: none;
+  width: 80%;
+  /* height: 8vh; */
+  border-radius: 0.6rem;
+  margin-left: 2rem;
+  display: flex;
+  align-items: center;
+  padding: 0.7rem;
+}
+#Homecompfour_input1 {
+  background-color: #beffea;
+  margin-top: 2rem;
+  border: none;
+  width: 80%;
+  /* height: 6vh; */
+  border-radius: 0.6rem;
+  margin-left: 2rem;
+}
+#Homecompfour_input:active {
+  background-color: #beffea;
+  margin-top: 2rem;
+  border: none;
+  width: 80%;
+  height: 6vh;
+  border-radius: 0.6rem;
+}
+#Homecompfour_input_contact:active {
+    background-color: #beffea;
+    margin-top: 2rem;
+    border: none;
+    width: 80%;
+    /* height: 8vh; */
+    border-radius: 0.6rem;
+    margin-left: 2rem;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+  }
+#homecompfour_need {
+  font-family: exo;
+  color: #0d41a2;
+  font-size: 1.3rem;
+  font-weight: 400;
+  padding-left: 1.7rem;
+  margin-top: 2rem;
+  margin-bottom: .5rem;
+}
+#homecompfour_request {
+  color: #0b58e4;
+  font-family: Exo;
+  font-weight: 700;
+  font-size: 2.8rem;
+  padding-left: 1.5rem;
+  line-height: 1.2;
+}
+#homecompfour_we {
+  font-family: roboto;
+  padding-left: 1.5rem;
+  font-weight: 300;
+  margin-bottom: 4rem;
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
+#homecompfour_thequickest {
+  font-weight: 400;
+  font-family: roboto;
+  margin-bottom: 5rem;
+  margin-top: 0.5rem;
+}
+
+#homecompfour_avail {
+  margin-top: 2rem;
+}
+#Homecompdour_timing {
+  background-color: #223a66;
+  color: #fff;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-family: roboto;
+}
+#Homecompdour_timing2 {
+  background-color: #223a66;
+  color: #fff;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding: 0.5rem;
+  margin-left: 2rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  font-family: roboto;
+}
+#homecompfour_timingselect {
+  margin-bottom: 2rem;
+  margin-left: 2rem;
+}
+#Homecompfour_input {
+  margin-left: 2rem;
+}
+#Homecompfour_input:focus {
+  outline: none;
+}
+#homecompfour_sendbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#homecompfour_sendusbtn {
+  width: 85%;
+  border: none;
+  color: #fff;
+  background: #223a66;
+  padding: 0.5rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+#homecompfour_check {
+  margin-left: 1rem;
+}
+#homecompfour_label {
+  margin-left: 0.8rem;
+}
+
+#phoneInpHomeCompFour {
+  border: none;
+  background: transparent;
+}
+
+#homecompfour11{
+  font-family: "Roboto";
+  font-weight: 600;
+}

@@ -1,0 +1,69 @@
+#lab1{
+    background-color: #223A66;
+    color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 1.2rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    
+}
+#lab2{
+    border: 1px solid black;
+    border-radius: 0.2rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+#lab3{
+  font-size: 2.4rem;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 40vh;
+  margin-bottom: 2rem;
+}
+#searchbar1 {
+    margin-bottom: 2rem;
+  }
+  #searchbar2 {
+    text-align: center;
+    font-weight: 500;
+  }
+  #searchbar3 {
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    outline: none;
+    margin-top: 2.5rem;
+  }
+  #searchbar4 {
+    position: absolute;
+    left: 1rem;
+    top: 0.35rem;
+    color: #1a6ea4;
+    font-size: 1rem;
+  }
+  #searchbar5 {
+    border-radius: 0.5rem;
+    border: 2px solid #1a6ea4;
+    padding-left: 2rem;
+    margin-left: 0.4rem;
+
+  }
+  #searchbar6{
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 20vh;
+    margin-bottom: 2rem;
+  }

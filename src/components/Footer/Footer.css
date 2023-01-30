@@ -1,0 +1,92 @@
+.footer_bg {
+  background-color: black;
+  height: auto;
+}
+.footertext_green {
+  color: #36dfee;
+  font-family: Roboto;
+  font-weight: 200;
+  font-size: 1rem;
+  margin-top: 1rem;
+  text-decoration: none;
+}
+.footertext_green:hover {
+  color: white;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 1rem;
+  padding-left: 0.3rem;
+  margin-top: 1rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+.footer_heading {
+  color: white;
+  font-weight: 600;
+  font-size: 1rem;
+  padding-top: 2rem;
+  padding-left: 1rem;
+}
+
+.footer_copyrights {
+  background-color: #1fbba1;
+}
+.shortlink {
+  font-size: 0.7rem;
+  font-weight: 300;
+  font-family: roboto;
+  color: white;
+}
+
+.copyright_text {
+  font-size: 0.8rem;
+  font-weight: 300;
+  font-family: roboto;
+  color: white;
+  text-align: center;
+  padding-top: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+#footer_socialicons {
+  gap: 1rem;
+}
+#footer_icondiv {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* text-align: center; */
+  margin-top: 2rem;
+}
+#footer_codekart {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  font-weight: 500;
+}
+#footer_codekart:hover {
+  text-decoration: none;
+  
+  cursor: pointer;
+  font-weight: 500;
+}
+#footer_locationicon {
+  font-size: 1.2rem;
+  margin-right: 1rem;
+  margin-left: -1rem;
+  color: azure;
+}
+#footer_contactus {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0.2rem;
+}
+#footer1 {
+  color: #36dfee;
+  text-decoration: none;
+  font-size: 0.85rem;
+}

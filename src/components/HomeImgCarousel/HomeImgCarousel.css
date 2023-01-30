@@ -1,0 +1,26 @@
+#hic1 {
+    margin-bottom: 1rem;
+  }
+  #hic2 {
+    height: 70vh;
+  }
+  @media only screen and (max-width: 600px) {
+    #hic2 {
+      height: 25vh;
+    }
+  }
+  @media only screen and (min-width: 768px) {
+    #hic2 {
+      height: 40vh;
+    }
+  }
+  @media only screen and (min-width: 992px) {
+    #hic2 {
+      height: 85vh;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    #hic2 {
+      height: 85vh;
+    }
+  }

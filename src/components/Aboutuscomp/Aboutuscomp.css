@@ -1,0 +1,46 @@
+#aboutus_iconcontainer{
+    background-color: #05cdf5;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    color:#fff
+
+}
+#aboutus_enddiv{
+    background: linear-gradient(90deg, #ffffff, #0565d9,#ffffff);
+    height: .2rem;
+    margin-top: 1rem;
+    margin-left:0;
+    margin-right: 0;
+}
+#aboutuscardcompallign{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+
+}
+#aboutuscomp_title{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.7rem;
+    color: #0565d9;
+}
+#aboutus_text{
+    text-align: center;
+    
+}
+#iconmaincontainer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 1rem;
+}

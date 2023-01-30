@@ -1,0 +1,35 @@
+
+
+.iconbg_bill{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-family: roboto;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+#bill_ordernumber{
+    font-size: 1.7rem;
+    font-family: exo;
+    font-weight: 600;
+    color: #394E76;
+ 
+    margin-bottom: 1rem;
+}
+#bill_02{
+    font-family: roboto ;
+    font-size: 1rem;
+    padding-left: 2rem;
+   
+}
+
+#bill_03{
+    font-family: roboto ;
+    font-size: 1rem;
+    margin: none;
+    font-weight: 500;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    padding-left: 2rem;
+    color: #394E76;
+}

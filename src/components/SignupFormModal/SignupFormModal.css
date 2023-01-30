@@ -1,0 +1,34 @@
+#sfm1 {
+    border-bottom: none;
+}
+#sfm2 {
+    border-top: none;
+    display: flex;
+    justify-content: center; 
+}
+#sfm3 {
+    font-size: 3rem;
+    font-weight: 500;
+    color: #394E76;
+}
+#sfm4 {
+    color: #394E76;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+#sfm5 {
+    border: none;
+    border-bottom: 2px solid #029967;
+    margin-bottom: 1rem;
+}
+#sfm6 {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+#sfm7 {
+    background-color: #394E76;
+    border: none;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}

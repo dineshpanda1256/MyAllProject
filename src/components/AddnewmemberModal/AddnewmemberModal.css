@@ -1,0 +1,44 @@
+#addnew1{
+    border: 0px solid white;
+}
+#addnew2{
+    background-color: #33CBD8;
+    text-align: center;
+    color: white;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    border-radius: 0.4rem;
+}
+#addnew3{
+    border: 1px solid #000000;
+}
+#addnew4{
+    font-size: 1.1rem;
+    color: #000000;
+    font-weight: 600;
+    font-family: roboto;
+}
+#addnew5{
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+    color: #000000;
+    font-weight: 600;
+    font-family: roboto;
+}
+#addnew6{
+    background-color: #5C5C5C;
+    color: white;
+    text-align: center;
+    border-radius: 0.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+#addnew7{
+    background: linear-gradient(to right, #36DFEE 0%, #2DA2AC 100%);
+    border-radius: 0.3rem;
+    text-align: center;
+    color: white;
+    margin-top: 1.3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+}

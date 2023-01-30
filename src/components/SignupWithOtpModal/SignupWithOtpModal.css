@@ -1,0 +1,75 @@
+#swom1 {
+    border-bottom: none;
+}
+#swom2 {
+    border-top: none;
+    border-top: none;
+    display: flex;
+    justify-content: flex-start;
+}
+#sowm3 {
+    font-size: 3rem;
+    font-weight: 900;
+    color: #394E76;
+}
+#swom4 {
+    color: #394E76;
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+#swom5 {
+    font-size: 1.2rem;
+    color: #394E76;
+    border-bottom: 3px solid green;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    margin-top: 1rem;
+}
+#swom6 {
+    display: flex;
+    align-items: center;
+}
+#swom7 {
+    height: 0.1rem;
+    background-color: #029967;
+    margin-top: 0rem;
+    margin-bottom: 1rem;
+}
+#swom8 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+#swom9 {
+    display: flex;
+    align-items: center;
+}
+#otp9 {
+    border-bottom: 2px solid green;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+#otp5 {
+    border: none;
+    font-size: 2rem;
+    color: green;
+    height: 1em;
+    width: 1em;
+}
+#genderId{
+    font-size: 1rem;
+    border: 2px solid green;
+    text-align: center;
+    border-radius: 0.5rem;
+    padding-top:0.5rem ;
+    padding-bottom: 0.5rem;
+    cursor: pointer;
+}
+
+#mobileNumInpField {
+  border: none;
+}

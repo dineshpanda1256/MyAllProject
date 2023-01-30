@@ -1,0 +1,192 @@
+#orderdetails_return {
+  font-family: exo;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #009cff;
+}
+#orderdetails_returnicon {
+  background-color: #009cff;
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 32px;
+  text-align: center;
+}
+#orderdetails_returnmaindiv {
+  display: flex;
+  flex-direction: row;
+  gap: 0.7rem;
+  margin-top: 3rem;
+}
+#orderdetails_labname {
+  font-family: exo;
+  font-size: 2.4rem;
+  color: #394e76;
+  font-weight: 600;
+
+  margin-bottom: 2rem;
+}
+#orderdetails_type {
+  font-family: roboto;
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  align-items: center;
+  margin-left: 1rem;
+}
+#orderdetail_downloadbtn {
+  border: none;
+  background: linear-gradient(45deg, #37deed, #2da2ac);
+  color: white;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  width: 70%;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  margin-left: 1rem;
+}
+#orderdetails_timedate {
+  font-family: roboto;
+  font-weight: 500;
+  margin-left: 1rem;
+}
+#orderdetail_paymentdetail {
+  font-family: roboto;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+#orderdetail_testandprice {
+  margin-top: 1rem;
+  font-family: roboto;
+  margin-left: 1rem;
+}
+#orderdetail_testandprice2 {
+  margin-top: 1rem;
+  font-family: roboto;
+  font-weight: 700;
+  margin-left: 1rem;
+}
+#starrating_maindiv {
+  align-items: center;
+  background: linear-gradient(45deg, #37deed, #2da2ac);
+  border-radius: 0.5rem;
+  padding: 0.3rem;
+  width: 75%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  font-family: roboto;
+  font-weight: 500;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 0.8rem;
+}
+#rateus_text {
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+#rateus_star {
+  text-align: center;
+}
+
+/* css for step progressbar */
+.step-wizard-list {
+  background: #fff;
+  box-shadow: 0 15px 25px rgba(0, 0, 0, 0.1);
+  color: #333;
+  list-style-type: none;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px 10px;
+  z-index: 10;
+}
+
+.step-wizard-item {
+  padding: 0 20px;
+  flex-basis: 0;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  min-width: 170px;
+  position: relative;
+}
+.step-wizard-item + .step-wizard-item:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 19px;
+  background: #21d4fd;
+  width: 100%;
+  height: 2px;
+  transform: translateX(-50%);
+  z-index: -10;
+}
+.progress-count {
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-weight: 600;
+  margin: 0 auto;
+  position: relative;
+  z-index: 10;
+  color: transparent;
+}
+.progress-count:after {
+  content: "";
+  height: 40px;
+  width: 40px;
+  background: #21d4fd;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: -10;
+}
+.progress-count:before {
+  content: "";
+  height: 10px;
+  width: 20px;
+  border-left: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -60%) rotate(-45deg);
+  transform-origin: center center;
+}
+.progress-label {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+.current-item .progress-count:before,
+.current-item ~ .step-wizard-item .progress-count:before {
+  display: none;
+}
+.current-item ~ .step-wizard-item .progress-count:after {
+  height: 10px;
+  width: 10px;
+}
+.current-item ~ .step-wizard-item .progress-label {
+  opacity: 0.5;
+}
+.current-item .progress-count:after {
+  background: #fff;
+  border: 2px solid #21d4fd;
+}
+.current-item .progress-count {
+  color: #21d4fd;
+}

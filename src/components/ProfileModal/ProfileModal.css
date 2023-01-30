@@ -1,0 +1,47 @@
+#profilemodal1 {
+    margin-right: 1rem;
+    margin-left: auto;
+    width: 30%;
+}
+@media only screen and (max-width: 768px) {
+    #profilemodal1 {
+        width: 90%;
+    }
+  }
+
+#profilemodal2 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #394E76;
+    margin-bottom: 0.3rem;
+}
+#profileemodal3 {
+    font-weight: 300;
+    text-transform: uppercase;
+    color: #394E76;
+    margin-bottom: 0.3rem;
+
+}
+#profilemodal4 {
+    /* display: flex; */
+    color: #394E76;
+    font-weight: 400;
+    margin-bottom: 0.3rem;
+}
+#profilemodal5 {
+    font-weight: 500;
+    color: #394E76;
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+}
+#profilemodal6 {
+    font-weight: 500;
+    color: #394E76;
+    /* margin-top: 1rem; */
+    margin-bottom: 0.3rem;
+}
+#profilemodal7 {
+    background-color: #394E76;
+    width: 100%;
+    margin-top: 2rem;
+}

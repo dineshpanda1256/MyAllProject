@@ -1,0 +1,91 @@
+
+.homecompfive_savetime{
+    font-family: exo;
+    font-weight: 200;
+    text-align: center;
+    align-items: center;
+    display: flex;
+
+    justify-content: center;
+    font-size: 1rem;
+}
+.homecompfive_skip{
+    color: #1FBBA1;
+    font-family: Exo;
+    font-weight: 600;
+    font-size: 2.6rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 1.1;
+    margin-top: 1rem;
+}
+
+.homecompfive_discover{
+    font-family: exo;
+    font-weight: 700;
+    color: #0B58E4;
+    font-size: 2rem;
+}
+.homecompfive_discover:hover{
+    font-family: exo;
+    font-weight: 900;
+    color: #36DFEE;
+    font-size: 2rem;
+}
+.homecompfive_learnmore{
+    font-weight: 500;
+    font-family: Roboto;
+    color: #36DFEE;
+    margin-top: 1rem;
+}
+.homecompfive_paragraph{
+    font-family: roboto;
+    font-weight: 300;
+    color:#000;
+    margin-top: 1rem;
+    width: 100%;
+    text-align: justify;
+}
+.Homecompfive_graddiv{
+    height:auto;
+    background: linear-gradient(-45deg, #36DFEE,#37DBE9, #2DA2AC);
+    animation: gradient 2s ease infinite;
+    background-size: 400% 400%;
+    margin-top: 1rem;
+    
+    padding-bottom: 1rem;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+.Homecompfive_Downloadtext {
+    font-family: Exo;
+    font-weight: 900;
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 1rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#home_doctorimage2 :hover{
+border: 1px dashed #36DFEE;
+border-radius: 2.2rem;
+
+}
+
+#applestoreplaystore:hover{
+    opacity: 90%;
+}

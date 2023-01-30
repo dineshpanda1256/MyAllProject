@@ -1,0 +1,35 @@
+#modal1{
+   border: 0px solid white;
+}
+#modal2{
+    color: #009CFF;
+    margin-top: 1rem;
+    font-family: roboto;
+    font-weight: 500;
+    font-size: 1.4rem;
+}
+#modal3{
+    margin-top: 1.2rem;
+}
+#modal4{
+    width: 15%;
+    height: 15%;
+    margin-left: 0.7rem;
+}
+#modal5{
+    padding: 0.5rem;
+}
+#modal6{
+    color: #009CFF;
+    font-family: roboto;
+}
+#modal7{
+    font-weight: 500;
+    font-size: 1rem;
+    font-family: roboto;
+    color: #1E1E1E;
+}
+#modal8{
+    display: flex;
+    justify-content: center;
+}

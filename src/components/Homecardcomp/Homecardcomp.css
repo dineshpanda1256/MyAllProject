@@ -1,0 +1,35 @@
+.Homecardcomp_maindiv{
+    height: auto;
+    border-radius: 1rem;
+    width: auto;
+    background-image:linear-gradient(-45deg, #009CFF , #003D76);
+    transition: all 1s ease-out;
+    margin-bottom: 2rem;
+}
+.Homecardcomp_maindiv:hover{
+   
+    background-image:linear-gradient(45deg, #009CFF , #003D76);
+    
+    
+}
+.Homecardcomp_cardtitle{
+    font-family: Exo;
+    color: #fff;
+}
+.homecardcomp_learnmorebtn{
+    font-family: Exo;
+    font-weight: 400;
+    color: white;
+    background-image: linear-gradient(45deg, #009CFF , #003D76);
+    margin: 0px;
+    padding: 0px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    transition: all 1s ease-in;
+}
+.homecardcomp_learnmorebtn:hover{
+    background-image:linear-gradient(-45deg, #009CFF , #003D76);
+}
